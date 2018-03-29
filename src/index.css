@@ -3,3 +3,66 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.app-container {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.carousel {
+}
+
+.carousel-creator {
+  /* -webkit-clip-path: polygon(0px 1600px,400px 0px,0px 0px); */
+  border-radius: 30px;
+  border-radius: 30px;
+  /* width: 80%; */
+}
+
+.carousel-creator-title {
+  bottom: 0%;
+  top: 5%;
+}
+
+.carousel-item1 {
+  background-size: contain;
+  border-radius: 30px;
+  border-radius: 30px;
+  /* background-position-x: 370px; */
+  /* background-size: 70%; */
+  /* background-repeat: no-repeat; */
+}
+
+.carousel-background-title {
+  right: -50%;
+  bottom: -10%;
+}
+
+.carousel-description-title {
+  text-align: justify;
+}
+
+.carousel-description-text {
+  text-align: justify;
+}
+
+.right {
+  background-image: none !important;
+}
+
+.glyphicon-chevron-right {
+  margin-right: -120% !important;
+  margin: auto;
+  color: blue;
+}
+
+.left {
+  background-image: none !important;
+}
+
+.glyphicon-chevron-left {
+  margin-left: -120% !important;
+  margin: auto;
+  color: blue;
+}
